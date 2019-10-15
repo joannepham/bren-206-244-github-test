@@ -1,7 +1,7 @@
 ---
 title: "ESM 206/244 GitHub Testing"
 output: html_document
-name: Joanne Pham yah
+name: Joanne Pham yah!
 ---
 
 ```{r setup, include=FALSE}
